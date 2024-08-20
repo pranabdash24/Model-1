@@ -2,3 +2,4 @@ streamlit
 catboost
 numpy
 pandas
+pickle
